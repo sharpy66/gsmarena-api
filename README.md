@@ -1,6 +1,7 @@
 # GSMArena API (gsmarena.com)
 
 GSMArena phone specification and finder. This project is still in early development.
+I am attempting to update this to scrape more data from the website, however since I don't know what i'm doing and can't be bothered to read the cheerio documentation....
 
 The API basically reads from GSMArena website and results JSON data.
 
