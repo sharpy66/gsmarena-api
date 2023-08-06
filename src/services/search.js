@@ -16,6 +16,7 @@ const search = async (searchValue) => {
                 .join(' '),
             img: imgBlock.attr('src'),
             description: imgBlock.attr('title'),
+            link: $(el).find('a').attr('href')
         });
     });
 
